@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcolt0710&theme=tokyonight" />
+</p>
+
+---
+
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="left">
