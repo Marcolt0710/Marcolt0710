@@ -1,5 +1,5 @@
 <h1 align="center">Marco Antônio</h1>
-<h3 align="center">Estudante de tecnologia que aprende construindo — e já tem gente usando o que eu construí.</h3>
+<h3 align="center">Estudante de tecnologia que aprende construindo .</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcolt0710&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Visitas no perfil" />
