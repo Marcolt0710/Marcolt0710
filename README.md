@@ -9,25 +9,26 @@
 
 ### Sobre mim
 
+<img align="right" src="https://commons.wikimedia.org/wiki/Special:FilePath/Universidade_do_Vale_do_Para%C3%ADba_logo.png" alt="Univap" width="140" />
+
 Ainda estou nos cursos técnicos, mas não fico só no exercício de aula: o que aprendo eu testo em produto de verdade. O `plaquinhas-nfc-dashboard`, por exemplo, não é projeto de portfólio — é o sistema que uso hoje pra tocar um negócio real de plaquinhas NFC/QR de avaliação Google, usado na rua, no celular, durante a prospecção porta a porta.
 
+- 🎓 Univap — Universidade do Vale do Paraíba
 - 📚 Base: algoritmos, C, C# e Unity, com um pouco de HTML/CSS
 - 🔭 Agora: evoluindo o `plaquinhas-nfc-dashboard` e aprendendo IA aplicada no `techmentor-ai`
 - 🌱 Aprendendo fazendo — cada projeto novo é um problema que eu não sabia resolver antes
 - 📫 Contato: **latapiatmarco@gmail.com**
 
+<br clear="right"/>
+
 ---
 
 ### Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/Marcolt0710/plaquinhas-nfc-dashboard">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcolt0710&repo=plaquinhas-nfc-dashboard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Marcolt0710/techmentor-ai">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcolt0710&repo=techmentor-ai&theme=tokyonight" />
-  </a>
-</p>
+| | |
+|---|---|
+| **[plaquinhas-nfc-dashboard](https://github.com/Marcolt0710/plaquinhas-nfc-dashboard)** ⭐ | Dashboard de gestão para negócio real de plaquinhas NFC/QR Code de avaliação Google. |
+| **[techmentor-ai](https://github.com/Marcolt0710/techmentor-ai)** ⭐ | Assistente de estudos com IA para estudantes de cursos técnicos. |
 
 ---
 
@@ -45,11 +46,6 @@ Ainda estou nos cursos técnicos, mas não fico só no exercício de aula: o que
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcolt0710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcolt0710&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcolt0710&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -62,6 +58,6 @@ Ainda estou nos cursos técnicos, mas não fico só no exercício de aula: o que
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:latapiatmarco@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-mail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="28" />
   </a>
 </p>
