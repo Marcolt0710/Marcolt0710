@@ -1,30 +1,53 @@
-<h2 data-importer="text" align="left">Olá meu nome é Marco Antônio, estou cursando o ensino médio técnico na Univap — Universidade do Vale do Paraíba </h2>
+## Systems profile
 
-###
+<p><code>marcolt0710@github:~$ whoami</code></p>
 
-<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/205061022?v=4"  />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=marcolt0710&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205061022%3Fu%3Dd2bf4dce400627cb03f9cffac36e5b1458f7bdc3%26v%3D4&style=terminal" alt="marcolt0710 hero visual" />
+</p>
 
-###
+**Marco Latapiat** · Frontend or full-stack engineer
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Runtime notes
 
-###
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 4
+COMMUNITY   = 2 followers</code></pre>
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Building useful things and learning in public.
 
-###
+## Service toolkit
+
+<p><code>marcolt0710@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=marcolt0710&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205061022%3Fu%3Dd2bf4dce400627cb03f9cffac36e5b1458f7bdc3%26v%3D4&style=terminal" alt="marcolt0710 stack visual" />
+</p>
+
+## System signals
+
+<table>
+<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>2</b><br/><sub>stars</sub></td><td align="center"><b>66</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [plaquinhas-nfc-dashboard](https://github.com/Marcolt0710/plaquinhas-nfc-dashboard) — TypeScript · 1 stars
+- [techmentor-ai](https://github.com/Marcolt0710/techmentor-ai) — TypeScript · 1 stars
+- [Jogos3bi](https://github.com/Marcolt0710/Jogos3bi) — C# · 0 stars
+- [Marcolt0710](https://github.com/Marcolt0710/Marcolt0710) — open source · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=marcolt0710&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205061022%3Fu%3Dd2bf4dce400627cb03f9cffac36e5b1458f7bdc3%26v%3D4" alt="marcolt0710 heatmap visual" />
+</p>
+
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=marcolt0710&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205061022%3Fu%3Dd2bf4dce400627cb03f9cffac36e5b1458f7bdc3%26v%3D4" alt="marcolt0710 social visual" />
+</p>
+
+<a href="https://github.com/marcolt0710">GitHub</a>
+
+<p align="center"><sub>Marco Latapiat · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
